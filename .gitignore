@@ -1,0 +1,11 @@
+# Python
+__pycache__
+
+# Sphinx
+_build
+
+# virtualenv
+_venv
+
+# Mac
+.DS_Store
